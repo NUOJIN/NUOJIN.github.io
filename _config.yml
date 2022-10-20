@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nuojin Cheng's Homepage"
+title                    : "Noki's Homepage"
 title_separator          : "-"
 name                     : &name "Nuojin Cheng"
 description              : &description "Ph.D. Student @CU Boulder"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nuojin Cheng"
-  avatar           : "Profile.JPG"
+  avatar           : "portrait.jpg"
   bio              : "3rd Ph.D. Student @CU Boulder"
   location         : "Boulder, CO"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  orcid            :
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0001-6926-8994
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

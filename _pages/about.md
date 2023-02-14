@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third year Ph.D. student from the Department of Applied Mathematics, University of Colorado, Boulder.
 I have been bestowed with the privilege of receiving guidance and mentorship from [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/). 
-I graduated from University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distrinction.
+I graduated from University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.
 
 Research Interest
 ======

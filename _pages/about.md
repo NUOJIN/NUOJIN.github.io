@@ -21,5 +21,3 @@ My current research projects involve the development of **deep generative models
 I am also investigating the practicalities of conducting derivative-free optimization of black-box functions through an information-theoretic approach.
 
 My ultimate goal is to devise novel methodologies that are well-balanced in terms of both theoretical interpretation and empirical performance, thereby contributing towards the advancement of our community.
-
-**I am looking for a summer 2023 internship opportunity.**

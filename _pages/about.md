@@ -15,9 +15,6 @@ I graduated from University of Minnesota, Twin Cities in 2020, where I earned a 
 Research Interest
 ======
 My academic pursuits range from **uncertainty quantification** to **probabilistic machine learning** and **randomized algorithm**. 
-My intellectual curiosity is primarily directed toward designing algorithms to facilitate the modeling of uncertainties under high-dimensional and large-scale settings.
-
-My current research projects involve the development of **deep generative models**, such as variational auto-encoders (VAE), to efficaciously estimate the propagation of uncertainties in physical models. 
-I am also investigating the practicalities of conducting derivative-free optimization of black-box functions through an information-theoretic approach.
-
+I am interested in developing algorithms for uncertainty modeling and applying randomized algorithms to downscale large physical systems. 
+My current research projects involve applying deep generative models (e.g. variational auto-encoder) for UQ, importance sampling, and Langevin Monte Carlo. 
 My ultimate goal is to devise novel methodologies that are well-balanced in terms of both theoretical interpretation and empirical performance, thereby contributing towards the advancement of our community.

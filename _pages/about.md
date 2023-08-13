@@ -18,3 +18,5 @@ My academic pursuits range from **uncertainty quantification** to **probabilisti
 I am interested in developing algorithms for uncertainty modeling and applying randomized algorithms to downscale large physical systems. 
 My current research projects involve applying deep generative models (e.g. variational auto-encoder) for UQ, importance sampling, and Langevin Monte Carlo. 
 My ultimate goal is to devise novel methodologies that are well-balanced in terms of both theoretical interpretation and empirical performance, thereby contributing towards the advancement of our community.
+
+**I am an intern in the Shell AI research group this summer**

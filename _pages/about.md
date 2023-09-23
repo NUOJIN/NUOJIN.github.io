@@ -19,4 +19,4 @@ I am interested in developing algorithms for uncertainty modeling and applying r
 My current research projects involve applying deep generative models (e.g. variational auto-encoder) for UQ, importance sampling, and Langevin Monte Carlo. 
 My ultimate goal is to devise novel methodologies that are well-balanced in terms of both theoretical interpretation and empirical performance, thereby contributing towards the advancement of our community.
 
-**I am actively looking for 2024 summer internship opportunities in Data/Machine Learning/Algorithms.**
+**I am actively looking for 2024 summer internship opportunities.**

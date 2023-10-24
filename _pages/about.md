@@ -26,7 +26,7 @@ I am primarily interested in exploring the following areas:
 
 The central problem I aim to address is
 
-**How can we effectively utilize less accurate data sources and scarce high-fidelity data to construct a reliable model?**
+**How can we effectively utilize less-accurate (low-fidelity) data sources and scarce high-fidelity data to construct a reliable model?**
 
 To address this challenge, I have been working on
 

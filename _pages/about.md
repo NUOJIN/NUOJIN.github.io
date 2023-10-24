@@ -12,11 +12,29 @@ I am a 4th year Ph.D. student from the Department of Applied Mathematics, Univer
 My advisors are [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/). 
 I graduated from the University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.
 
+**I am actively looking for 2024 summer internship opportunities.**
+
 Research Interest
 ======
-My academic pursuits range from **uncertainty quantification** to **probabilistic machine learning** and **randomized algorithm**. 
-I am interested in developing algorithms for uncertainty modeling and applying randomized algorithms to downscale large physical systems. 
-My current research projects involve applying deep generative models (e.g. variational auto-encoder) for UQ, importance sampling, and Langevin Monte Carlo. 
-My ultimate goal is to devise novel methodologies that are well-balanced in terms of both theoretical interpretation and empirical performance, thereby contributing towards the advancement of our community.
+I am primarily interested in exploring the following areas:
 
-**I am actively looking for 2024 summer internship opportunities.**
+- **Uncertainty Quantification**
+
+- **Multi-fidelity Modeling**
+
+- **Probabilistic Numerics**
+
+The central problem I aim to address is
+
+**How can we effectively utilize less accurate data sources and scarce high-fidelity data to construct a reliable model?**
+
+To address this challenge, I have been working on
+
+- Employing *boosting* method on multi-fidelity modeling:
+    - Built weak learner from low-fidelity model
+    - Boosted a strong learner embodied by a bi-fidelity model
+- Leveraging *variational auto-encoder* (VAE) to establish a latent probabilistic regression from low-fidelity to high-fidelity:
+    - Introduced the bi-fidelity evidence lower bound (BF-ELBO)
+    - Established a connection with the principle of information bottleneck
+
+Currently, I am actively working on a *Langevin-based Monte Carlo* strategy for estimating high-fidelity statistical properties with a reduced mean square error by leveraging insights from the low-fidelity model.

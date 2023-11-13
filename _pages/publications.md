@@ -14,8 +14,7 @@ Computer Methods in Applied Mechanics and Engineering, *under review*
 of kronecker least squares problems [\[link\]](https://arxiv.org/abs/2209.05662)<br>
 O. A. Malik\*, Y. Xu\*, **N. Cheng**\*, S. Becker, A. Doostan, and A. Narayan<br>
 Advances in Computational Mathematics, *under review*
-3. Quadrature sampling of parametric models
-with bi-fidelity boosting [\[link\]](https://arxiv.org/abs/2209.05705)<br>
+3. Subsampling of parametric models with bi-fidelity boosting [\[link\]](https://arxiv.org/abs/2209.05705)<br>
 **N. Cheng**\*, O. A. Malik\*, Y. Xu\*, S. Becker, A. Doostan, and A. Narayan<br>
 SIAM/ASA Journal on Uncertainty Quantification, *accept*
 4. Machine learning application identifies novel gene signatures

@@ -12,8 +12,6 @@ I am a 4th year Ph.D. student from the Department of Applied Mathematics, Univer
 My advisors are [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/). 
 I graduated from the University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.
 
-**I am actively looking for 2024 summer internship opportunities.**
-
 Research Interest
 ======
 I am primarily interested in exploring the following areas:

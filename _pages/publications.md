@@ -9,7 +9,7 @@ author_profile: true
 1. Bi-fidelity variational auto-encoder for 
 uncertainty quantification [\[link\]](https://arxiv.org/abs/2305.16530)<br>
 **N. Cheng**, O. A. Malik, S. De, S. Becker, A. Doostan<br>
-Computer Methods in Applied Mechanics and Engineering, *in revision*
+Computer Methods in Applied Mechanics and Engineering, *to appear*
 2. Fast algorithms for monotone lower subsets
 of kronecker least squares problems [\[link\]](https://arxiv.org/abs/2209.05662)<br>
 O. A. Malik\*, Y. Xu\*, **N. Cheng**\*, S. Becker, A. Doostan, and A. Narayan<br>

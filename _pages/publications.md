@@ -7,7 +7,7 @@ author_profile: true
 [\* means equal contribution]
 
 1. Bi-fidelity variational auto-encoder for 
-uncertainty quantification [\[link\]](https://www.sciencedirect.com/science/article/pii/S0045782524000495)<br>
+uncertainty quantification [\[link\]](https://arxiv.org/abs/2305.16530)<br>
 **N. Cheng**, O. A. Malik, S. De, S. Becker, A. Doostan<br>
 Computer Methods in Applied Mechanics and Engineering
 2. Fast algorithms for monotone lower subsets

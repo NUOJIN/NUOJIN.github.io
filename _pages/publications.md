@@ -12,9 +12,9 @@ O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 
 ### Journals
 
-1. Subsampling of parametric models with bi-fidelity boosting [\[arxiv\]](https://arxiv.org/abs/2209.05705)<br>
+1. Subsampling of parametric models with bi-fidelity boosting [\[DOI\]](https://doi.org/10.1137/22M1524989)<br>
 **N. Cheng**, O. A. Malik, Y. Xu, S. Becker, A. Doostan, and A. Narayan<br>
-*SIAM/ASA Journal on Uncertainty Quantification* (to appear)
+*SIAM/ASA Journal on Uncertainty Quantification* 
 2. Bi-fidelity variational auto-encoder for 
 uncertainty quantification [\[DOI\]](https://doi.org/10.1016/j.cma.2024.116793)<br>
 **N. Cheng**, O. A. Malik, S. De, S. Becker, A. Doostan<br>

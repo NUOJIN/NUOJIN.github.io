@@ -8,31 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Ph.D. student from the Department of Applied Mathematics, University of Colorado, Boulder.
-My advisors are [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/). 
+I am currently a 4th year Ph.D. candidate from the Department of Applied Mathematics, University of Colorado, Boulder.
+My advisors are [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/), who are two great people to work with. 
 I graduated from the University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.
 
-Research Interest
+I am inclined to think the world in a *probabilistic* way, especially enjoy working on problems in the presense of *uncertainty* and potentially *multi-fideity*. Most of my research works focus on designing clever algorithms in *statistical inference* and *optimization*. 
+
+Outside of my research, I am passionate about skiing and hiking. Living in Colorado bestows me with opportunities to explore some of the most stunning mountains and ski resorts. Among them, Big Sky and Snowbird/Alta remain my favorites, despite them both being outside Colorado; (
+
+News
 ======
-I am primarily interested in exploring the following areas:
+- **2024 Apr**: Our work "Sub-sampling of Parametric Models with Bi-fidelity Boosting" is published on *SIAM/ASA Journal on Uncertainty Quantification*
 
-- **Uncertainty Quantification**
+- **2024 Feb**: Our work "Bi-fidelity Variational Auto-encoder for Uncertainty Quantification" is published on *Computer Methods in Applied Mechanics and Engineering*
 
-- **Multi-fidelity Modeling**
-
-- **Probabilistic Numerics**
-
-The central problem I aim to address is
-
-**How to utilize less-accurate (low-fidelity) data sources and scarce high-fidelity data to construct a reliable model?**
-
-To address this challenge, I have been working on
-
-- Employing *boosting* method on multi-fidelity modeling:
-    - Built weak learner from low-fidelity model
-    - Boosted a strong learner embodied by a bi-fidelity model
-- Leveraging *variational auto-encoder* (VAE) to establish a latent probabilistic regression from low-fidelity to high-fidelity:
-    - Introduced the bi-fidelity evidence lower bound (BF-ELBO)
-    - Established a connection with the principle of information bottleneck
-
-Currently, I am actively working on a *Langevin-based Monte Carlo* strategy for estimating high-fidelity statistical properties with a reduced mean square error by leveraging insights from the low-fidelity model.
+- **2024 Feb**: Our work "Variational Entropy Search for Adjusting Expected Improvement" is available on [arXiv](https://arxiv.org/abs/2402.11345)

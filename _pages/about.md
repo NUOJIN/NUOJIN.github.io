@@ -18,6 +18,8 @@ Outside of my research, I am passionate about skiing and hiking. Living in Color
 
 News
 ======
+- **2024 May**: I will join *TikTok* in Seattle as a *Machine Learning Intern* this summer
+
 - **2024 Apr**: Our work "Sub-sampling of Parametric Models with Bi-fidelity Boosting" is published on *SIAM/ASA Journal on Uncertainty Quantification*
 
 - **2024 Feb**: Our work "Bi-fidelity Variational Auto-encoder for Uncertainty Quantification" is published on *Computer Methods in Applied Mechanics and Engineering*

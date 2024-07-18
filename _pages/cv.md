@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
 - Ph.D. Applied Mathematics, University of Colorado, Boulder 
 
 - B.S. Mathematics, University of Minnesota, Twin Cities.  
 
 ## Preprints
-======
+
 - **N. Cheng** and S. Becker. “Variational entropy search for adjusting expected improvement”.
 
 - O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, A. Narayan. “Fast algorithms for monotone
 lower subsets of Kronecker least squares problems”.
 
 ## Publications
-======
+
 - **N. Cheng**, O.A. Malik, Y. Xu, S. Becker, A. Doostan, A. Narayan. 2024. “Subsampling of para-
 metric models with bi-fidelity boosting”. *SIAM/ASA Journal on Uncertainty Quantification.*
 
@@ -36,7 +36,7 @@ signatures from transcriptomic data of spontaneous canine hemangiosarcoma”. *B
 
 
 ## Presentations
-======
+
 - Variational Auto-encoder for Uncertainty Quantification. ASEN 6412 Guest Talk, Boulder, CO. 2024 Apr. 
 - Multi-fidelity Methods for Uncertainty Quantification. Comprehensive exam, Boulder, CO. 2023 Nov. 
 - Bi-fidelity Boosting Method. Invited talk, remote. 2023 Oct. 
@@ -44,13 +44,13 @@ signatures from transcriptomic data of spontaneous canine hemangiosarcoma”. *B
 - Bi-fidelity Variational Auto-encoder. USNCCM17 Symposium talk, Albuquerque, NM. 2023 Jul. 
 
 ## Teaching
-======
+
 - 2021 Spring (CU Boulder): Introduction to Differential Equations with Linear Algebra, Teaching Assistant
 - 2020 Fall (CU Boulder): Calculus 1 for Engineers, Teaching Assistant
 - 2019 Fall (UMN): Pre-Calculus I, Teaching Assistant
 
 ## Service
-======
+
 Reviewer: NeurIPS2024, CIKM2024, Briefings in Bioinformatics
   
 

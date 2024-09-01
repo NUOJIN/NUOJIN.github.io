@@ -24,8 +24,7 @@ lower subsets of Kronecker least squares problems”.
 
 ## Publications
 
-- **N. Cheng**, O.A. Malik, Y. Xu, S. Becker, A. Doostan, A. Narayan. 2024. “Subsampling of para-
-metric models with bi-fidelity boosting”. *SIAM/ASA Journal on Uncertainty Quantification.*
+- **N. Cheng**, O.A. Malik, Y. Xu, S. Becker, A. Doostan, A. Narayan. 2024. “Subsampling of parametric models with bi-fidelity boosting”. *SIAM/ASA Journal on Uncertainty Quantification.*
 
 - **N. Cheng**, O.A. Malik, S. De, S. Becker, A. Doostan. 2024. “Bi-fidelity variational auto-encoder
 for uncertainty quantification”. *Computer Methods in Applied Mechanics and Engineering.*
@@ -51,6 +50,6 @@ signatures from transcriptomic data of spontaneous canine hemangiosarcoma”. *B
 
 ## Service
 
-Reviewer: NeurIPS2024, CIKM2024, Briefings in Bioinformatics
+Reviewer: ICLR2025, NeurIPS2024, CIKM2024, Briefings in Bioinformatics
   
 

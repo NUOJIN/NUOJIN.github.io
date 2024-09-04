@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th year Ph.D. candidate from the Department of Applied Mathematics, University of Colorado, Boulder.
+I am currently a 5th year Ph.D. candidate from the Department of Applied Mathematics, University of Colorado, Boulder.
 My advisors are [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/), who are two great people to work with. 
 I graduated from the University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.
 
@@ -18,7 +18,6 @@ Outside of my research, I am passionate about skiing and hiking. Living in Color
 
 News
 ======
-- **2024 May**: I will join *TikTok* in Seattle as a *Machine Learning Intern* this summer
 
 - **2024 Apr**: Our work "Sub-sampling of Parametric Models with Bi-fidelity Boosting" is published on *SIAM/ASA Journal on Uncertainty Quantification*
 

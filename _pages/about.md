@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**I plan to graduate in 2025 May and am currently on the job market!**
+
 I am currently a 5th year Ph.D. candidate from the Department of Applied Mathematics, University of Colorado, Boulder.
 My advisors are [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/), who are two great people to work with. 
 I graduated from the University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.

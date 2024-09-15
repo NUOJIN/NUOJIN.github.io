@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-- Ph.D. Applied Mathematics, University of Colorado, Boulder 
+- Ph.D. *ongoing* Applied Mathematics, University of Colorado, Boulder 
 
 - B.S. Mathematics, University of Minnesota, Twin Cities.  
 
@@ -36,6 +36,7 @@ signatures from transcriptomic data of spontaneous canine hemangiosarcoma”. *B
 
 ## Presentations
 
+- Stochastic Subspace Descent with Surrogate-adjusted Line Search. MORe2024, La Jolla, CA. 2024 Sep
 - Variational Auto-encoder for Uncertainty Quantification. ASEN 6412 Guest Talk, Boulder, CO. 2024 Apr. 
 - Multi-fidelity Methods for Uncertainty Quantification. Comprehensive exam, Boulder, CO. 2023 Nov. 
 - Bi-fidelity Boosting Method. Invited talk, remote. 2023 Oct. 

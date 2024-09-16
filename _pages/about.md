@@ -26,5 +26,3 @@ News
 - **2024 Apr**: Our work "Sub-sampling of Parametric Models with Bi-fidelity Boosting" is published on *SIAM/ASA Journal on Uncertainty Quantification*
 
 - **2024 Feb**: Our work "Bi-fidelity Variational Auto-encoder for Uncertainty Quantification" is published on *Computer Methods in Applied Mechanics and Engineering*
-
-- **2024 Feb**: Our work "Variational Entropy Search for Adjusting Expected Improvement" is available on [arXiv](https://arxiv.org/abs/2402.11345)

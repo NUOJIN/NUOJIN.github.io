@@ -51,6 +51,6 @@ signatures from transcriptomic data of spontaneous canine hemangiosarcoma”. *B
 
 ## Service
 
-Reviewer: ICLR, NeurIPS, CIKM, Briefings in Bioinformatics, Journal of Computational Physics
+Reviewer: ICLR, NeurIPS, AISTATS, CIKM, Briefings in Bioinformatics, Journal of Computational Physics
   
 

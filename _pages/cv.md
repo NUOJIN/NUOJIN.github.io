@@ -49,8 +49,14 @@ signatures from transcriptomic data of spontaneous canine hemangiosarcoma”. *B
 - 2020 Fall (CU Boulder): Calculus 1 for Engineers, Teaching Assistant
 - 2019 Fall (UMN): Pre-Calculus I, Teaching Assistant
 
-## Service
+## Review Service
 
-Reviewer: ICLR, NeurIPS, AISTATS, CIKM, Briefings in Bioinformatics, Journal of Computational Physics
+- ICML
+- AISTATS
+- NeurIPS
+- ICLR
+- CIKM
+- Briefings in Bioinformatics
+- Journal of Computational Physics
   
 

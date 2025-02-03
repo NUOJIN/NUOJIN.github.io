@@ -17,7 +17,7 @@ redirect_from:
 
 ## Preprints
 
-- **N. Cheng***, L. Papenmeier, S. Becker, L. Nardi. “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.
+- **N. Cheng***, L. Papenmeier*, S. Becker, L. Nardi. “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.
 
 - O. A. Malik*, Y. Xu*, **N. Cheng***, S. Becker, A. Doostan, A. Narayan. “Fast algorithms for monotone
 lower subsets of Kronecker least squares problems”.

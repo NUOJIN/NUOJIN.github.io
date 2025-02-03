@@ -17,14 +17,14 @@ redirect_from:
 
 ## Preprints
 
-- **N. Cheng** and S. Becker. “Variational entropy search for adjusting expected improvement”.
+- **N. Cheng***, L. Papenmeier, S. Becker, L. Nardi. “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.
 
-- O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, A. Narayan. “Fast algorithms for monotone
+- O. A. Malik*, Y. Xu*, **N. Cheng***, S. Becker, A. Doostan, A. Narayan. “Fast algorithms for monotone
 lower subsets of Kronecker least squares problems”.
 
 ## Publications
 
-- **N. Cheng**, O.A. Malik, Y. Xu, S. Becker, A. Doostan, A. Narayan. 2024. “Subsampling of parametric models with bi-fidelity boosting”. *SIAM/ASA Journal on Uncertainty Quantification.*
+- **N. Cheng***, O.A. Malik*, Y. Xu*, S. Becker, A. Doostan, A. Narayan. 2024. “Subsampling of parametric models with bi-fidelity boosting”. *SIAM/ASA Journal on Uncertainty Quantification.*
 
 - **N. Cheng**, O.A. Malik, S. De, S. Becker, A. Doostan. 2024. “Bi-fidelity variational auto-encoder
 for uncertainty quantification”. *Computer Methods in Applied Mechanics and Engineering.*

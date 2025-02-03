@@ -7,17 +7,14 @@ author_profile: true
 ### Preprints
 1. Variational entropy search for adjusting expected improvment [\[arxiv\]](https://arxiv.org/abs/2402.11345)<br>
 **N. Cheng**<sup>†</sup>, L. Papenmeier<sup>†</sup>, S. Becker, L. Nardi<br>
-*Equal contribution: N. Cheng and L. Papenmeier.*
 
 2. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
 O. A. Malik<sup>†</sup>, Y. Xu<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, A. Doostan, and A. Narayan<br>
-*Equal contribution: O. A. Malik, Y. Xu, and N. Cheng.*
 
 ### Journals
 1. Subsampling of parametric models with bi-fidelity boosting [\[DOI\]](https://doi.org/10.1137/22M1524989)<br>
 **N. Cheng**<sup>†</sup>, O. A. Malik<sup>†</sup>, Y. Xu<sup>†</sup>, S. Becker, A. Doostan, and A. Narayan<br>
 *SIAM/ASA Journal on Uncertainty Quantification*<br>
-*Equal contribution: N. Cheng, O. A. Malik, and Y. Xu.*
 
 2. Bi-fidelity variational auto-encoder for uncertainty quantification [\[DOI\]](https://doi.org/10.1016/j.cma.2024.116793)<br>
 **N. Cheng**, O. A. Malik, S. De, S. Becker, A. Doostan<br>

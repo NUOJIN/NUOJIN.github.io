@@ -17,20 +17,20 @@ redirect_from:
 
 ## Preprints
 
+- L. Papenmeier<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, L. Nardi.  
+  “Explore Explorations in Bayesian Optimization”.
+
 - **N. Cheng**<sup>†</sup>, L. Papenmeier<sup>†</sup>, S. Becker, L. Nardi.  
   “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.  
-  *Equal contribution: **N. Cheng** and L. Papenmeier.*
 
 - O. A. Malik<sup>†</sup>, Y. Xu<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, A. Doostan, A. Narayan.  
   “Fast algorithms for monotone lower subsets of Kronecker least squares problems”.  
-  *Equal contribution: O. A. Malik, Y. Xu, and **N. Cheng**.*
 
 ## Publications
 
 - **N. Cheng**<sup>†</sup>, O. A. Malik<sup>†</sup>, Y. Xu<sup>†</sup>, S. Becker, A. Doostan, A. Narayan. 2024.  
   “Subsampling of parametric models with bi-fidelity boosting”.  
   *SIAM/ASA Journal on Uncertainty Quantification.*  
-  *Equal contribution: **N. Cheng**, O. A. Malik, and Y. Xu.*
 
 - **N. Cheng**, O. A. Malik, S. De, S. Becker, A. Doostan. 2024.  
   “Bi-fidelity variational auto-encoder for uncertainty quantification”.  

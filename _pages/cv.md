@@ -43,6 +43,7 @@ redirect_from:
 
 ## Presentations
 
+- Bi-fidelity Variational Auto-encoder. SIAM CSE 2025 Symposium talk, Fort Worth, TX. 2025 Mar.
 - Stochastic Subspace Descent with Surrogate-adjusted Line Search. MORe2024, La Jolla, CA. 2024 Sep
 - Variational Auto-encoder for Uncertainty Quantification. ASEN 6412 Guest Talk, Boulder, CO. 2024 Apr. 
 - Multi-fidelity Methods for Uncertainty Quantification. Comprehensive exam, Boulder, CO. 2023 Nov. 

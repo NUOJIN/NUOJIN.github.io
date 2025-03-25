@@ -17,6 +17,9 @@ redirect_from:
 
 ## Preprints
 
+- **N. Cheng** and A. Doostan.
+  "Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation".
+
 - L. Papenmeier<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, L. Nardi.  
   “Explore Explorations in Bayesian Optimization”.
 

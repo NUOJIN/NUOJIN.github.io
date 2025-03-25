@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
-1. Exploring Exploration in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2502.08208)<br>
+
+1. Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation [\[arxiv\]](https://arxiv.org/abs/2503.17796)<br>
+**N. Cheng** and A. Doostan <br>
+
+2. Exploring Exploration in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2502.08208)<br>
 L. Papenmeier<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, L. Nardi<br>
 
-2. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
+3. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
 **N. Cheng**<sup>†</sup>, L. Papenmeier<sup>†</sup>, S. Becker, L. Nardi<br>
 
-3. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
+4. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
 O. A. Malik<sup>†</sup>, Y. Xu<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, A. Doostan, and A. Narayan<br>
 
 ### Journals

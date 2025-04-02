@@ -21,10 +21,8 @@ Outside of my research, I am passionate about skiing and hiking. Living in Color
 News
 ======
 
+- **2025 Apr**: I passed my PhD defense with title *Multi-fidelity Uncertainty Quantification and Optimization*!
+
 - **2025 Mar**: I presented our work *Bi-fidelity Variational Auto-encoder for Uncertainty Quantification* at SIAM CSE 2025 in Fort Worth, TX
 
 - **2024 Sep**: I presented our work *Surrogate-based Line Search for Stochastic Subspace Descent* at [MORe2024](https://more2024.sciencesconf.org/) in La Jolla, CA
-
-- **2024 Apr**: Our work "Sub-sampling of Parametric Models with Bi-fidelity Boosting" is published on *SIAM/ASA Journal on Uncertainty Quantification*
-
-- **2024 Feb**: Our work "Bi-fidelity Variational Auto-encoder for Uncertainty Quantification" is published on *Computer Methods in Applied Mechanics and Engineering*

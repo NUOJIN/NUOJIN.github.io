@@ -16,7 +16,7 @@ I am inclined to think the world in a *probabilistic* way, especially enjoy work
 
 Outside of my research, I am passionate about skiing and hiking. Living in Colorado bestows me with opportunities to explore some of the most stunning mountains and ski resorts. Among them, Big Sky and Snowbird/Alta remain my favorites, despite them both being outside Colorado; (
 
-**This June, I'll be moving to Seattle, WA, to start working at Google Cloud AI. I'm going to miss Colorado.**
+**This June, I'll be moving to Seattle, WA, to start working at Google Cloud AI.**
 
 News
 ======

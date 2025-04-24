@@ -11,27 +11,27 @@ redirect_from:
 
 ## Education
 
-- Ph.D. *ongoing* Applied Mathematics, University of Colorado, Boulder 
+- Ph.D. Applied Mathematics, University of Colorado, Boulder. 2025.
 
-- B.S. Mathematics, University of Minnesota, Twin Cities.  
+- B.S. Mathematics, University of Minnesota, Twin Cities. 2020.
 
 ## Preprints
 
 - **N. Cheng** and A. Doostan.  
   “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.
 
-- L. Papenmeier<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, L. Nardi.  
+- L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi.  
   “Explore Explorations in Bayesian Optimization”.
 
-- **N. Cheng**<sup>†</sup>, L. Papenmeier<sup>†</sup>, S. Becker, L. Nardi.  
+- **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi.  
   “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.  
 
-- O. A. Malik<sup>†</sup>, Y. Xu<sup>†</sup>, **N. Cheng**<sup>†</sup>, S. Becker, A. Doostan, A. Narayan.  
+- O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, A. Narayan.  
   “Fast algorithms for monotone lower subsets of Kronecker least squares problems”.  
 
 ## Publications
 
-- **N. Cheng**<sup>†</sup>, O. A. Malik<sup>†</sup>, Y. Xu<sup>†</sup>, S. Becker, A. Doostan, A. Narayan. 2024.  
+- **N. Cheng**, O. A. Malik, Y. Xu, S. Becker, A. Doostan, A. Narayan. 2024.  
   “Subsampling of parametric models with bi-fidelity boosting”.  
   *SIAM/ASA Journal on Uncertainty Quantification.*  
 

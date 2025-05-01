@@ -16,13 +16,12 @@ I am inclined to think the world in a *probabilistic* way, especially enjoy work
 
 Outside of my research, I am passionate about skiing and hiking. Living in Colorado bestows me with opportunities to explore some of the most stunning mountains and ski resorts. Among them, Big Sky and Snowbird/Alta remain my favorites, despite them both being outside Colorado; (
 
-**This June, I'll be moving to Seattle, WA, to start working at Google Cloud AI.**
+**This June, I'll be moving to Seattle, WA, to start working at Google Cloud ML@Scale group.**
 
 News
 ======
+- **2025 May**: Our work *A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization* is selected as **Spotlight** (2.6%) at ICML 2025.
 
 - **2025 Apr**: I passed my PhD defense with title *Multi-fidelity Uncertainty Quantification and Optimization*!
 
-- **2025 Mar**: I presented our work *Bi-fidelity Variational Auto-encoder for Uncertainty Quantification* at SIAM CSE 2025 in Fort Worth, TX
-
-- **2024 Sep**: I presented our work *Surrogate-based Line Search for Stochastic Subspace Descent* at [MORe2024](https://more2024.sciencesconf.org/) in La Jolla, CA
+- **2025 Mar**: I presented our work *Bi-fidelity Variational Auto-encoder for Uncertainty Quantification* at SIAM CSE 2025 in Fort Worth, TX.

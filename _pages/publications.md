@@ -21,12 +21,12 @@ O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 ### Journals
 1. Subsampling of parametric models with bi-fidelity boosting [\[DOI\]](https://doi.org/10.1137/22M1524989)<br>
 **N. Cheng**, O. A. Malik, Y. Xu, S. Becker, A. Doostan, and A. Narayan<br>
-*SIAM/ASA Journal on Uncertainty Quantification*<br>
+*SIAM/ASA Journal on Uncertainty Quantification* 2024
 
 2. Bi-fidelity variational auto-encoder for uncertainty quantification [\[DOI\]](https://doi.org/10.1016/j.cma.2024.116793)<br>
 **N. Cheng**, O. A. Malik, S. De, S. Becker, A. Doostan<br>
-*Computer Methods in Applied Mechanics and Engineering*
+*Computer Methods in Applied Mechanics and Engineering* 2024
 
 3. Machine learning application identifies novel gene signatures from transcriptomic data of spontaneous canine hemangiosarcoma [\[DOI\]](https://doi.org/10.1093/bib/bbaa252)<br>
 **N. Cheng**, A. J. Schulte, F. Santosa, and J. H. Kim.<br>
-*Briefings in Bioinformatics*
+*Briefings in Bioinformatics* 2021

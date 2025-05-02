@@ -6,14 +6,14 @@ author_profile: true
 ---
 ### Preprints
 
-1. Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation [\[arxiv\]](https://arxiv.org/abs/2503.17796)<br>
+1. Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search [\[arxiv\]](https://arxiv.org/abs/2505.00162)<br>
+**N. Cheng**, A. Doostan, and S. Becker <br>
+
+2. Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation [\[arxiv\]](https://arxiv.org/abs/2503.17796)<br>
 **N. Cheng** and A. Doostan <br>
 
-2. Exploring Exploration in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2502.08208)<br>
+3. Exploring Exploration in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2502.08208)<br>
 L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi<br>
-
-3. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
-**N. Cheng**, L. Papenmeier, S. Becker, L. Nardi<br>
 
 4. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
 O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
@@ -30,3 +30,9 @@ O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 3. Machine learning application identifies novel gene signatures from transcriptomic data of spontaneous canine hemangiosarcoma [\[DOI\]](https://doi.org/10.1093/bib/bbaa252)<br>
 **N. Cheng**, A. J. Schulte, F. Santosa, and J. H. Kim.<br>
 *Briefings in Bioinformatics* 2021
+
+### Conference preceedings
+
+1. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
+**N. Cheng**, L. Papenmeier, S. Becker, L. Nardi<br>
+*ICML 2025**Spotlight (Top 2.6%)** *

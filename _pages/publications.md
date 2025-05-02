@@ -35,4 +35,4 @@ O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 
 1. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
 **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi<br>
-*ICML 2025**Spotlight (Top 2.6%)** *
+ICML 2025 **Spotlight (Top 2.6%)**

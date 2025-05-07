@@ -12,10 +12,7 @@ author_profile: true
 2. Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation [\[arxiv\]](https://arxiv.org/abs/2503.17796)<br>
 **N. Cheng** and A. Doostan <br>
 
-3. Exploring Exploration in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2502.08208)<br>
-L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi<br>
-
-4. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
+3. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
 O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 
 ### Journals
@@ -33,6 +30,10 @@ O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 
 ### Conference preceedings
 
-1. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
+1. Exploring Exploration in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2502.08208)<br>
+L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi<br>
+UAI 2025
+
+2. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
 **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi<br>
 ICML 2025 **Spotlight** (Top 2.6%)

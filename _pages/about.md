@@ -20,6 +20,8 @@ Outside of my research, I am passionate about skiing and hiking. Living in Color
 
 News
 ======
+- **2025 May**: Our work *Exploring Exploration in Bayesian Optimization* is accepted by UAI 2025.
+
 - **2025 May**: Our work *A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization* is selected as **Spotlight** (2.6%) at ICML 2025.
 
 - **2025 Apr**: I passed my PhD defense with title *Multi-fidelity Uncertainty Quantification and Optimization*!

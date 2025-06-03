@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noki's Homepage"
+title                    : "Nuojin's Homepage"
 title_separator          : "-"
 name                     : &name "Nuojin Cheng"
-description              : &description "Ph.D. Student @CU Boulder"
+description              : &description "Software Engineer @Google"
 url                      : https://NUOJIN.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NUOJIN/NUOJIN.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nuojin Cheng"
   avatar           : "portrait.jpg"
-  bio              : "Ph.D. Student @CU Boulder"
-  location         : "Boulder, CO"
+  bio              : "Software Engineer @Google"
+  location         : "Kirkland, WA"
   employer         :
   pubmed           :
   googlescholar    : https://scholar.google.com/citations?user=0_8g3o8AAAAJ&hl=en

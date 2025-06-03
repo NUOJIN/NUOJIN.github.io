@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a software engineer at Google Cloud LLM DevX team. Before this job, I received my PhD in applied mathematics from the University of Colorado, Boulder,  advised by [Prof. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Prof. Stephen Becker](https://amath.colorado.edu/faculty/becker/). 
+I am currently a software engineer at Google Cloud LLM DevX team led by [Dr. Alex Shraer](https://csaws.cs.technion.ac.il/~shralex/). Before this job, I received my PhD in applied mathematics from the University of Colorado, Boulder,  advised by [Dr. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Dr. Stephen Becker](https://amath.colorado.edu/faculty/becker/). 
 Further before that, I graduated from the University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.
 
-Outside of works, I am passionate about skiing and hiking. My favorite ski resorts are Big Sky and Snowbird/Alta so far.
+Outside of works, I am passionate about skiing and hiking. My favorite ski resorts are Big Sky and Snowbird/Alta.
 
 News
 ======

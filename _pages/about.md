@@ -13,9 +13,10 @@ Further before that, I graduated from the University of Minnesota, Twin Cities i
 
 Outside of works, I am passionate about skiing and hiking. My favorite ski resorts are Big Sky and Snowbird/Alta.
 
+**I will attend ICML 2025 in Vancouver, BC and am happy to chat with anyone!**
+
 News
 ======
-- **2025 June**: Start my job at the LLM DevX team : P
 
 - **2025 May**: Our work *Exploring Exploration in Bayesian Optimization* is accepted by UAI 2025.
 

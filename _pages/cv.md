@@ -17,7 +17,7 @@ redirect_from:
 
 ## Preprints
 
-- **N. Cheng**, A. Doostan, S. Becker 
+- **N. Cheng**, A. Doostan, S. Becker.  
   “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.
 
 - **N. Cheng** and A. Doostan.  

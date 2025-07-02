@@ -17,19 +17,24 @@ redirect_from:
 
 ## Preprints
 
+- **N. Cheng**, A. Doostan, S. Becker 
+  “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.
+
 - **N. Cheng** and A. Doostan.  
   “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.
-
-- L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi.  
-  “Explore Explorations in Bayesian Optimization”.
-
-- **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi.  
-  “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.  
 
 - O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, A. Narayan.  
   “Fast algorithms for monotone lower subsets of Kronecker least squares problems”.  
 
 ## Publications
+
+- **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi. 2025.  
+  “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.  
+  *ICML 2025 Oral.*
+
+- L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi. 2025.  
+  “Explore Explorations in Bayesian Optimization”.  
+  *UAI 2025.*
 
 - **N. Cheng**, O. A. Malik, Y. Xu, S. Becker, A. Doostan, A. Narayan. 2024.  
   “Subsampling of parametric models with bi-fidelity boosting”.  

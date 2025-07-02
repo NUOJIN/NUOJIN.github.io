@@ -30,10 +30,10 @@ O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 
 ### Conference preceedings
 
-1. Exploring Exploration in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2502.08208)<br>
+1. Exploring Exploration in Bayesian Optimization [\[Openreview\]](https://openreview.net/forum?id=QnH03CxYlc)<br>
 L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi<br>
 UAI 2025
 
-2. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[arxiv\]](https://arxiv.org/abs/2501.18756)<br>
+2. A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization [\[Openreview\]](https://openreview.net/forum?id=LbJQYNSH41)<br>
 **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi<br>
-ICML 2025 **Spotlight** (Top 2.6%)
+ICML 2025 **Oral** (Top 1.0%)

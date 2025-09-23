@@ -16,10 +16,10 @@ Outside of works, I am passionate about skiing and hiking. My favorite ski resor
 News
 ======
 
+- **2025 September**: Our work *Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search* is accepted by TMLR.
+
+- **2025 September**: Our work *Langevin bi-fidelity importance sampling for failure probability estimation* is accepted by Journal of Mechanical Design.
+
 - **2025 May**: Our work *Exploring Exploration in Bayesian Optimization* is accepted by UAI 2025.
 
 - **2025 May**: Our work *A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization* is selected as **Oral** (~1.0%) at ICML 2025.
-
-- **2025 Apr**: I passed my PhD defense with title *Multi-fidelity Uncertainty Quantification and Optimization*!
-
-- **2025 Mar**: I presented our work *Bi-fidelity Variational Auto-encoder for Uncertainty Quantification* at SIAM CSE 2025 in Fort Worth, TX.

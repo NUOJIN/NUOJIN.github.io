@@ -17,16 +17,18 @@ redirect_from:
 
 ## Preprints
 
-- **N. Cheng**, A. Doostan, S. Becker.  
-  “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.
-
-- **N. Cheng** and A. Doostan.  
-  “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.
-
 - O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, A. Narayan.  
   “Fast algorithms for monotone lower subsets of Kronecker least squares problems”.  
 
 ## Publications
+
+- **N. Cheng** and A. Doostan. 2026.
+  “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.
+  *Journal of Mechanical Design.*
+
+- **N. Cheng**, A. Doostan, S. Becker. 2025.
+  “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.
+  *Transactions on Machine Learning Research.*
 
 - **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi. 2025.  
   “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.  
@@ -51,6 +53,7 @@ redirect_from:
 
 ## Presentations
 
+- Google TPU and JAX Coding. Northeast University Guest Talk, Seattle, WA. 2025 Oct.
 - Bi-fidelity Variational Auto-encoder. SIAM CSE 2025 Symposium talk, Fort Worth, TX. 2025 Mar.
 - Stochastic Subspace Descent with Surrogate-adjusted Line Search. MORe2024, La Jolla, CA. 2024 Sep
 - Variational Auto-encoder for Uncertainty Quantification. ASEN 6412 Guest Talk, Boulder, CO. 2024 Apr. 
@@ -67,6 +70,7 @@ redirect_from:
 
 ## Review Service
 
+- UAI
 - ICML
 - AISTATS
 - NeurIPS
@@ -74,5 +78,6 @@ redirect_from:
 - CIKM
 - Briefings in Bioinformatics
 - Journal of Computational Physics
+- Technometrics
   
 

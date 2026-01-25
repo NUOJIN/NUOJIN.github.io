@@ -46,10 +46,17 @@ redirect_from:
   “Bi-fidelity variational auto-encoder for uncertainty quantification”.  
   *Computer Methods in Applied Mechanics and Engineering.*
 
+- J. H. Kim, et al. 2024.  
+  “Hemangiosarcoma cells promote conserved host-derived hematopoietic expansion”.  
+  *Cancer research communications.*
+
 - **N. Cheng**, A. J. Schulte, F. Santosa, J. H. Kim. 2021.  
   “Machine learning application identifies novel gene signatures from transcriptomic data of spontaneous canine hemangiosarcoma”.  
   *Briefings in Bioinformatics.*
 
+- J. H. Kim, et al. 2021.  
+  “Genomically complex human angiosarcoma and canine hemangiosarcoma establish convergent angiogenic transcriptional programs driven by novel gene fusions”.  
+  *Molecular Cancer Research.*
 
 ## Presentations
 

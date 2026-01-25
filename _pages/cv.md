@@ -22,12 +22,12 @@ redirect_from:
 
 ## Publications
 
-- **N. Cheng** and A. Doostan. 2026.
-  “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.
+- **N. Cheng** and A. Doostan. 2026.  
+  “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.  
   *Journal of Mechanical Design.*
 
-- **N. Cheng**, A. Doostan, S. Becker. 2025.
-  “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.
+- **N. Cheng**, A. Doostan, S. Becker. 2025.  
+  “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.  
   *Transactions on Machine Learning Research.*
 
 - **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi. 2025.  

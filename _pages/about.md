@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a software engineer at Google Cloud LLM DevX team led by [Dr. Alex Shraer](https://www.linkedin.com/in/alex-shraer/). Before this job, I received my PhD in applied mathematics from the University of Colorado, Boulder,  advised by [Dr. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Dr. Stephen Becker](https://amath.colorado.edu/faculty/becker/). 
-Further before that, I graduated from the University of Minnesota, Twin Cities in 2020, where I earned a Bachelor of Science degree in Mathematics with high distinction.
+I am currently a machine learning software engineer at Google Cloud LLM DevX team led by [Dr. Alex Shraer](https://www.linkedin.com/in/alex-shraer/). Starting 2025, I am one of the main contributors of [MaxText](https://github.com/AI-Hypercomputer/maxtext), an open-sourced LLM training framework in JAX. Our goal is to develop high-performance, scalable, and easy-to-use codebase for the community.
 
-Outside of works, I am passionate about skiing and hiking. My favorite ski resorts are Big Sky and Snowbird/Alta.
+Before this job, I received my PhD in applied mathematics from the University of Colorado, Boulder,  advised by [Dr. Alireza Doostan](https://www.colorado.edu/aerospace/alireza-doostan) and [Dr. Stephen Becker](https://amath.colorado.edu/faculty/becker/). My research focused on uncertainty quantification and numerical optimization.
 
 News
 ======

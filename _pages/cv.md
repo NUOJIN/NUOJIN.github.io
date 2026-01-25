@@ -23,39 +23,39 @@ redirect_from:
 ## Publications
 
 - **N. Cheng** and A. Doostan. 2026.  
-  “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.  
+  “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.[\[DOI\]](https://doi.org/10.1115/1.4070207)  
   *Journal of Mechanical Design.*
 
 - **N. Cheng**, A. Doostan, S. Becker. 2025.  
-  “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.  
+  “Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search”.[\[OpenReview\]](https://openreview.net/forum?id=xuOQUs5YmT)  
   *Transactions on Machine Learning Research.*
 
 - **N. Cheng**, L. Papenmeier, S. Becker, L. Nardi. 2025.  
-  “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.  
+  “A Unified Framework for Entropy Search and Expected Improvement in Bayesian Optimization”.[\[OpenReview\]](https://openreview.net/forum?id=LbJQYNSH41)  
   *ICML 2025 Oral.*
 
 - L. Papenmeier, **N. Cheng**, S. Becker, L. Nardi. 2025.  
-  “Explore Explorations in Bayesian Optimization”.  
+  “Explore Explorations in Bayesian Optimization”.[\[OpenReview\]](https://openreview.net/forum?id=QnH03CxYlc)  
   *UAI 2025.*
 
 - **N. Cheng**, O. A. Malik, Y. Xu, S. Becker, A. Doostan, A. Narayan. 2024.  
-  “Subsampling of parametric models with bi-fidelity boosting”.  
+  “Subsampling of parametric models with bi-fidelity boosting”.[\[DOI\]](https://doi.org/10.1137/22M1524989)  
   *SIAM/ASA Journal on Uncertainty Quantification.*  
 
 - **N. Cheng**, O. A. Malik, S. De, S. Becker, A. Doostan. 2024.  
-  “Bi-fidelity variational auto-encoder for uncertainty quantification”.  
+  “Bi-fidelity variational auto-encoder for uncertainty quantification”.[\[DOI\]](https://doi.org/10.1016/j.cma.2024.116793)  
   *Computer Methods in Applied Mechanics and Engineering.*
 
 - J. H. Kim, et al. 2024.  
-  “Hemangiosarcoma cells promote conserved host-derived hematopoietic expansion”.  
+  “Hemangiosarcoma cells promote conserved host-derived hematopoietic expansion”.[\[DOI\]](https://doi.org/10.1158/2767-9764.crc-23-0441)  
   *Cancer research communications.*
 
 - **N. Cheng**, A. J. Schulte, F. Santosa, J. H. Kim. 2021.  
-  “Machine learning application identifies novel gene signatures from transcriptomic data of spontaneous canine hemangiosarcoma”.  
+  “Machine learning application identifies novel gene signatures from transcriptomic data of spontaneous canine hemangiosarcoma”.[\[DOI\]](https://doi.org/10.1093/bib/bbaa252)  
   *Briefings in Bioinformatics.*
 
 - J. H. Kim, et al. 2021.  
-  “Genomically complex human angiosarcoma and canine hemangiosarcoma establish convergent angiogenic transcriptional programs driven by novel gene fusions”.  
+  “Genomically complex human angiosarcoma and canine hemangiosarcoma establish convergent angiogenic transcriptional programs driven by novel gene fusions”.[\[DOI\]](https://doi.org/10.1158/1541-7786.mcr-20-0937)  
   *Molecular Cancer Research.*
 
 ## Presentations

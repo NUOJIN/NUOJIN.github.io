@@ -15,6 +15,8 @@ Before this job, I received my PhD in applied mathematics from the University of
 News
 ======
 
+- **2026 February**: Our work *Fast algorithms for monotone lower subsets of Kronecker least squares problems* is accepted by Journal of Scientific Computing.
+
 - **2025 September**: Our work *Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search* is accepted by TMLR.
 
 - **2025 September**: Our work *Langevin bi-fidelity importance sampling for failure probability estimation* is accepted by Journal of Mechanical Design.

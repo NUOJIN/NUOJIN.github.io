@@ -15,12 +15,12 @@ redirect_from:
 
 - B.S. Mathematics, University of Minnesota, Twin Cities. 2020.
 
-## Preprints
-
-- O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, A. Narayan.  
-  “Fast algorithms for monotone lower subsets of Kronecker least squares problems”.  
 
 ## Publications
+
+- O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, A. Narayan. 2026.  
+  “Fast algorithms for monotone lower subsets of Kronecker least squares problems”.[\[DOI\]](https://doi.org/10.1007/s10915-026-03224-9)  
+  *Journal of Scientific Computing.*
 
 - **N. Cheng** and A. Doostan. 2026.  
   “Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation”.[\[DOI\]](https://doi.org/10.1115/1.4070207)  

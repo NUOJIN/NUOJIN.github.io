@@ -6,13 +6,16 @@ author_profile: true
 ---
 ### Preprints
 
-1. Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search [\[arxiv\]](https://arxiv.org/abs/2505.00162)<br>
+1. Systolic Linear Attention: Co-Designing Tile-Grouped Gated Delta Attention for TPUs [\[arxiv\]](https://arxiv.org/abs/2611.06828)<br>
+G. Amirkhanyan and **N. Cheng**<br>
+
+2. Stochastic Subspace Descent Accelerated via Bi-fidelity Line Search [\[arxiv\]](https://arxiv.org/abs/2505.00162)<br>
 **N. Cheng**, A. Doostan, and S. Becker <br>
 
-2. Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation [\[arxiv\]](https://arxiv.org/abs/2503.17796)<br>
+3. Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation [\[arxiv\]](https://arxiv.org/abs/2503.17796)<br>
 **N. Cheng** and A. Doostan <br>
 
-3. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
+4. Fast algorithms for monotone lower subsets of kronecker least squares problems [\[arxiv\]](https://arxiv.org/abs/2209.05662)<br>
 O. A. Malik, Y. Xu, **N. Cheng**, S. Becker, A. Doostan, and A. Narayan<br>
 
 ### Journals
